@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-29T21:15:57" hostname="alisas-mbp.home" time="0.074">
+  <properties/>
+  <testcase name="start" classname="Tests" time="0.074"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello! My name is Toby.
+I was created in 2022.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
